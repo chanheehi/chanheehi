@@ -1,5 +1,5 @@
 **<h1 align="center">안녕하세요 👋 저는 이런 개발자입니다.</h1>**
-<p align="center"> <a href="https://hits.sh/github.com/chanheehi/"><img alt="Hits" src="https://hits.sh/github.com/chanheehi.svg"/></a></a> </p>
+<p align="center"> <a href="https://hits.sh/github.com/chanheehi/"><img alt="Hits" src="https://hits.sh/github.com/chanheehi.svg?label=Visitor"/></a> </p>
 <p align = "center">
   
 - 🎓 컴퓨터 비전 및 자연어 처리에 관심이 많습니다.
