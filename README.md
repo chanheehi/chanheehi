@@ -23,4 +23,5 @@
 ### *파이썬 라이브러리 스킬*
 ![Pytorch](https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Opencv](https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
+![Yolo](https://img.shields.io/badge/yolo-09B3AF?style=for-the-badge&logo=yolo&logoColor=white)
+![Scikitlearn](https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
