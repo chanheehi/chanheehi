@@ -9,7 +9,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chanhui/)
 [<img src="https://img.shields.io/badge/Blog-0ABF53?style=for-the-badge&logo=Storyblok&logoColor=white">](https://www.linkedin.com/in/chanhui/)
-[![Outlook](https://img.shields.io/badge/Gmail-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naya.chanhi@gmail.com)
 
 ## **개발 도구**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
