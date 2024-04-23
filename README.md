@@ -8,7 +8,7 @@
 - 저에 대해 알아보세요.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chanhui/)
-[<img src="https://img.shields.io/badge/Blog-0ABF53?style=for-the-badge&logo=Storyblok&logoColor=white">](https://www.linkedin.com/in/chanhui/)
+[<img src="https://img.shields.io/badge/Blog-0ABF53?style=for-the-badge&logo=Storyblok&logoColor=white">](https://blog.naver.com/jc603)
 
 ## **개발 도구**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
