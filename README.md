@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chanhui/)
 [<img src="https://img.shields.io/badge/Blog-0ABF53?style=for-the-badge&logo=Storyblok&logoColor=white">](https://blog.naver.com/jc603)
 * * *
-### **웹 개발 스킬**
+### **웹 프론트&백엔드 기술스택**
 - **웹**   
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -21,7 +21,7 @@
 ![Mysql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### **파이썬 라이브러리 스킬**
+### **파이썬 라이브러리 기술스택**
 - **딥러닝**   
 ![Pytorch](https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 - **이미지 및 동영상 처리**   
