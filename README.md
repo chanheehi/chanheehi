@@ -32,6 +32,9 @@
 ![Scikitlearn](https://img.shields.io/badge/scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23EAEAEA.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+- **업무자동화 및 크롤링**   
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+등..(pyautogui&beautiful soup)
 
 
 ### **개발 환경**
