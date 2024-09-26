@@ -1,7 +1,6 @@
 ## <div align="center">안녕하세요👋 저는 이런 개발자입니다.</div>
 <p align="center"> <a href="https://hits.sh/github.com/chanheehi/"><img alt="Hits" src="https://hits.sh/github.com/chanheehi.svg?label=Visitor"/></a> </p>
   
-- 🎓 언젠가는 본인의 아이템으로 성공적인 창업을 할 수 있도록 노력합니다.
 - 💻 사용자에게 직·간접적으로 도움이 되는 개발을 원합니다.
 - 🌱 오픈 소스 코드를 제 코드에 활용하는 것을 즐깁니다.
 
