@@ -35,7 +35,7 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23EAEAEA.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 - **업무자동화 및 크롤링**   
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-등..(pyautogui&beautiful soup)
+
 ### **개발 환경**
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
