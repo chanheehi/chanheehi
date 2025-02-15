@@ -1,8 +1,8 @@
 ## <div align="center">안녕하세요👋 저는 이런 개발자입니다.</div>
 <p align="center"> <a href="https://hits.sh/github.com/chanheehi/"><img alt="Hits" src="https://hits.sh/github.com/chanheehi.svg?label=Visitor"/></a> </p>
   
-- 💻 사용자에게 직·간접적으로 도움이 되는 개발을 원합니다.
-- 🌱 오픈 소스 코드를 제 코드에 활용하는 것을 즐깁니다.
+- 💻 사용자에게 직접적으로 도움이 되는 개발에 관심이 많습니다.
+- 🌱 오픈 소스 코드를 활용하는 것을 즐깁니다.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chanhui/)
 [<img src="https://img.shields.io/badge/Blog-0ABF53?style=for-the-badge&logo=Storyblok&logoColor=white">](https://blog.naver.com/jc603)
