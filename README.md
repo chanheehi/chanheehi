@@ -37,9 +37,19 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23EAEAEA.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 - **업무자동화 및 크롤링**   
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+- **GUI 개발**   
+![PyQt](https://img.shields.io/badge/PyQt-%230071C8?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDov...) 
+
+
 
 ### **개발 환경**
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### **AI툴**
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-%23000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4…인코딩문자열…&logoColor=white)
+
+
